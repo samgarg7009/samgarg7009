@@ -4,23 +4,19 @@
 ### Hi there <img width="25px" src="https://reach.at/assets/images/waving-emoji.gif"/>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m a fresher at TIET
-
-- 🔭 I’m currently working on [menu item project](https://github.com/samgarg7009/menu-item)
+- 🔭 I’m currently a Student at Thapar Institute of Engineering & Technology,Patiala
 
 - 🔭 I was a top contributor at ISTE - Code Debugging Challenge
 
 - 🌱 I’m currently learning web development
 
-- 📫 How to reach me: https://www.linkedin.com/in/samiksha-garg-477034206/
-
 - 📫 Contact me **[here](samikshagarg321@gmail.com)**
 
 ## ✍ My Work
 
-[![Samiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samgarg7009&show_icons=true&theme=dark)](https://github.com/samgarg7009)
+[![Samiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samgarg7009&show_icons=true&theme=chartreuse-dark)](https://github.com/samgarg7009)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgarg7009&theme=default&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgarg7009&theme=chartreuse-dark&layout=compact" />
 
 <summary><b>Technologies</b></summary>
 
@@ -35,6 +31,6 @@
 
 ## 🤝 Connect
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garg-samiksha/)
-[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samgarg7009)
+<a href="https://www.linkedin.com/in/garg-samiksha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/samgarg7009/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
