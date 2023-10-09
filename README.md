@@ -8,7 +8,9 @@
 
 - 🥇 I was a top contributor at ISTE - Code Debugging Challenge
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning ReactJs
+
+- ⚡ Fun fact: I am Learning to play the guitar with zero singing skills
 
 - 📫 Contact me **[here](samikshagarg321@gmail.com)**
 
@@ -33,8 +35,9 @@
 ## 👩‍💻 Languages and Tools
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/> 
 -->
-## 🤝 Connect
+## 🤝 let's Connect
 
 <a href="https://www.linkedin.com/in/garg-samiksha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/samgarg7009/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
+![](https://komarev.com/ghpvc/?username=samgarg7009)
