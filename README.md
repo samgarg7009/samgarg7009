@@ -41,3 +41,4 @@
 <a href="https://github.com/samgarg7009/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 ![](https://komarev.com/ghpvc/?username=samgarg7009)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c324dd69-b8c2-403d-bd21-dc43eeca34d7/deploy-status)](https://app.netlify.com/sites/react-authentication-with-firebase/deploys)
