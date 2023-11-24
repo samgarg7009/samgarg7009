@@ -8,7 +8,7 @@
 
 - 🥇 I was a top contributor at ISTE - Code Debugging Challenge
 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently sharpening my skills in Web development
 
 - ⚡ Fun fact: I am Learning to play the guitar with zero singing skills
 
